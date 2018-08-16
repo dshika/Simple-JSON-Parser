@@ -1,0 +1,1 @@
+A Simple JSON Utility to parse nested objects using "." notation in a single line.
