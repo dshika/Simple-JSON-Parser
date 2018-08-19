@@ -1,1 +1,1 @@
-A Simple JSON Utility to parse nested objects using "." notation in a single line.
+A Simple JSON Utility to parse nested JSON objects using "." notation in a single line.
